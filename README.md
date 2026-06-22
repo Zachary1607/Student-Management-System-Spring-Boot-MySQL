@@ -1,16 +1,17 @@
 # Student Management System
 
-A web-based Student Management System built using Spring Boot and MySQL. The application provides functionality to create, view, update, search, and delete student records through a clean web interface.
+A web-based Student Management System built using Spring Boot and MySQL. The application provides a simple interface to manage student records with features for creating, viewing, updating, searching, and deleting data.
 
 ## Features
 
-- Add Student Records
-- Update Student Information
-- Delete Student Records
-- Search Students
-- Form Validation
-- MySQL Database Integration
-- Layered Spring Boot Architecture
+- Add new student records
+- View student information
+- Update student details
+- Delete student records
+- Search students by name or other details
+- Form validation
+- MySQL database integration
+- Layered Spring Boot architecture
 
 ## Tech Stack
 
@@ -24,6 +25,7 @@ A web-based Student Management System built using Spring Boot and MySQL. The app
 
 ## Project Structure
 
+```text
 src/main/java
 ├── controller
 ├── service
@@ -35,15 +37,3 @@ src/main/resources
 ├── templates
 ├── static
 └── application.properties
-
-## Learning Outcomes
-
-- Spring Boot application development
-- MVC architecture
-- CRUD operations with JPA
-- Database integration using MySQL
-- Repository and Service layer implementation
-
-## Status
-
-Currently studying and customizing the project to gain practical experience in Spring Boot and backend development.
