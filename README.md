@@ -1,6 +1,6 @@
 # Student Management System
 
-A web-based Student Management System built using Spring Boot and MySQL. The application provides a simple interface to manage student records with features for creating, viewing, updating, searching, and deleting data.
+A webbased Student Management System built using Spring Boot and MySQL. The application provides a simple interface to manage student records with features for creating, viewing, updating, searching, and deleting data.
 
 ## Features
 
